@@ -1,0 +1,24 @@
+The name is too long, 277 chars total.
+Trying to shorten...
+New name is _4bd9216688e0605b8e05f5533577b3b8_lec3.pdf?Expires=1492819200&Signature=k2PrEopyNC~AlNeMoimxLChoH3uqiYU0J9LiOZ34G5JC~Qj2BbkzH-C3e9QSfKM~uELDSXNu3xnZPpCnB4YQPYQnerjDuDbPN711NyYosPcDcBc2PDCheRISDNC7961GHS8xJ2iQypV2yM1BUOSFvgekgIIelQ225N4d.
+--2017-04-20 04:18:25--  https://d3c33hcgiwev3.cloudfront.net/_4bd9216688e0605b8e05f5533577b3b8_lec3.pdf?Expires=1492819200&Signature=k2PrEopyNC~AlNeMoimxLChoH3uqiYU0J9LiOZ34G5JC~Qj2BbkzH-C3e9QSfKM~uELDSXNu3xnZPpCnB4YQPYQnerjDuDbPN711NyYosPcDcBc2PDCheRISDNC7961GHS8xJ2iQypV2yM1BUOSFvgekgIIelQ225N4dYtTgNzI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+Resolving d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)... 52.84.50.124, 52.84.50.132, 52.84.50.164, ...
+Connecting to d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)|52.84.50.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 548034 (535K) [application/pdf]
+Saving to: ‘_4bd9216688e0605b8e05f5533577b3b8_lec3.pdf?Expires=1492819200&Signature=k2PrEopyNC~AlNeMoimxLChoH3uqiYU0J9LiOZ34G5JC~Qj2BbkzH-C3e9QSfKM~uELDSXNu3xnZPpCnB4YQPYQnerjDuDbPN711NyYosPcDcBc2PDCheRISDNC7961GHS8xJ2iQypV2yM1BUOSFvgekgIIelQ225N4d’
+
+     0K .......... .......... .......... .......... ..........  9%  444K 1s
+    50K .......... .......... .......... .......... .......... 18%  426K 1s
+   100K .......... .......... .......... .......... .......... 28%  672K 1s
+   150K .......... .......... .......... .......... .......... 37%  432K 1s
+   200K .......... .......... .......... .......... .......... 46%  895K 1s
+   250K .......... .......... .......... .......... .......... 56%  729K 0s
+   300K .......... .......... .......... .......... .......... 65% 1.11M 0s
+   350K .......... .......... .......... .......... .......... 74% 3.35M 0s
+   400K .......... .......... .......... .......... .......... 84%  791K 0s
+   450K .......... .......... .......... .......... .......... 93%  846K 0s
+   500K .......... .......... .......... .....                100% 23.3M=0.7s
+
+2017-04-20 04:18:26 (736 KB/s) - ‘_4bd9216688e0605b8e05f5533577b3b8_lec3.pdf?Expires=1492819200&Signature=k2PrEopyNC~AlNeMoimxLChoH3uqiYU0J9LiOZ34G5JC~Qj2BbkzH-C3e9QSfKM~uELDSXNu3xnZPpCnB4YQPYQnerjDuDbPN711NyYosPcDcBc2PDCheRISDNC7961GHS8xJ2iQypV2yM1BUOSFvgekgIIelQ225N4d’ saved [548034/548034]
+
